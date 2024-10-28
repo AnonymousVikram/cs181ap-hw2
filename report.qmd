@@ -1,9 +1,9 @@
 ---
-title: "Homework [number]: [Report title]"
+title: "Homework 2: Multi-variable Analysis"
 subtitle: Data Analytics and Visualization, Fall 2024
-author: Students
+author: Vikram Krishna, Anshuman Singh
 institute: Harvey Mudd College
-date: September 2024
+date: October 29, 2024
 format: 
   html:
     self-contained: true
